@@ -1,0 +1,56 @@
+
+
+.container{
+    margin-bottom: 100px;
+}
+.carouselpic{
+  background-image: url("../images/bg-1.png");
+  background-repeat: no-repeat;
+}
+
+
+
+.btnn .button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+
+
+.mo-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px green;
+    color: wheat;
+    font-weight: 700;
+}
+.card{
+    border:none;
+    box-shadow:5px 5px 10px lightgray;
+    border-radius: 20px;
+}  
+.catagori{
+    text-align: center;
+    
+}  
+
+footer h6{
+    text-align: center;
+    background-color: #FF589B;
+}
+footer h6:hover{
+    background-color: rgb(111, 49, 190);
+    color: #FF136F;
+}
+.shadow:hover{
+    
+    box-shadow:5px 5px 10px #FF589B;(5, 3, 3, 3);
+    background-color: #FF589B;
+    color: white;
+    
+}  
